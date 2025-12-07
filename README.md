@@ -1,5 +1,7 @@
 # 💫 About Me:
-i am working ok flutter mobile application developer 
+I am a passionate Flutter Mobile Application Developer with hands-on experience building high-quality, fast, and scalable apps. I specialize in creating modern, user-friendly mobile applications with clean architecture and smooth performance.
+
+I love turning ideas into real mobile solutions and continuously improving my skills to deliver the best results for clients and users.
 
 
 ## 🌐 Socials:
